@@ -15,8 +15,8 @@ pip install -r requirements.txt
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/YuxiangL05230/stats507-coursework.git
-   cd stats507-coursework
+   git clone https://github.com/YuxiangL05230/Stats507_Final_Project_YuxiangLin
+   cd Stats507_Final_Project_YuxiangLin
    ```
 
 2. Launch JupyterLab:
